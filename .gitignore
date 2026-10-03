@@ -1,0 +1,39 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Environment / secrets
+.env
+.env.*
+
+# Publish
+publish/
+*.publishsettings
+
+# Test results
+TestResults/
